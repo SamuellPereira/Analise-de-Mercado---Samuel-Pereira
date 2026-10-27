@@ -1,0 +1,8 @@
+{
+  "name": "marketai-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Dashboard gratuito de bolsa e criptomoedas com indicadores técnicos e análise explicável.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
